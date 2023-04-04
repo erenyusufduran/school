@@ -249,3 +249,38 @@ the project as a whole.
 ![](./effective-props.png)
 
 - Ethics
+
+## WEEK - 4
+
+- ### Project Initiation
+- Business Case
+- Risk Analysis
+- Roles and Responsibilities
+- Initial Project Plan-
+- Project Charter
+- ### Planning the Activities
+- Progressive Eleboration
+- Iterative Activities
+- Statement of Work
+- Requirements Document
+- Work Breakdown Structure
+- Network Basic Rules
+- Critical Path
+  - Slack (Float)
+- Project Network
+
+## WEEK - 5
+
+- ### Planning
+- AON Network
+- Work Breakdown Structure
+  - FDA Application
+  - Calculating the total budget
+  - forward pass
+  - backward pass
+- Gannt Chart History
+  - Gannt Chart
+
+## WEEK - 6
+
+- ### EARLY and LATE Start and Finish Times
