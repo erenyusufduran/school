@@ -1,0 +1,5 @@
+CREATE TABLE Courses_2
+(
+	CourseID INT NOT NULL,
+	CourseName NVARCHAR(50) NOT NULL
+);
